@@ -1,0 +1,11 @@
+{
+    "name": "agency-website-root",
+    "private": true,
+    "scripts": {
+        "install-deps": "cd dashboard && npm install",
+        "build": "cd dashboard && npm install && npm run build"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}
