@@ -1,0 +1,551 @@
+{
+    "last_fetch": "2026-02-05T21:57:24.708881",
+    "articles": [
+        {
+            "id": "36a9df52-bdfe-4583-8300-6bd5a4b91de9",
+            "title": "Community",
+            "url": "https://bensbites.substack.com/p/you-dont-need-to-be-an-engineer-to",
+            "source": "BensBites",
+            "published_at": "2026-02-05T21:57:23.054653",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054721"
+        },
+        {
+            "id": "73550c24-2e12-4ecd-b7d5-0afa3a60ddca",
+            "title": "Exclusive: Microsoft AI launches Copilot Vision",
+            "url": "https://www.therundown.ai/p/microsoft-ai-launches-copilot-vision",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893458",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893458"
+        },
+        {
+            "id": "824e5396-ce4d-46fe-82d7-2cf3124f2e22",
+            "title": "Exclusive: Cisco launches AI Defense",
+            "url": "https://www.therundown.ai/p/cisco-announces-ai-defense",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893448",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893449"
+        },
+        {
+            "id": "5154cc7f-a12c-49a9-b618-f60bbda9facc",
+            "title": "Exclusive: UiPath launches next-gen platform for 'Agentic Automation'",
+            "url": "https://www.therundown.ai/p/ui-path-launches-agentic-automation-platform",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893439",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893440"
+        },
+        {
+            "id": "1200ac9b-daf7-4f17-a150-86edb55e0ffe",
+            "title": "Dropbox redefines the future of work with Dash",
+            "url": "https://www.therundown.ai/p/dropbox-redefines-the-future-of-work-with-dash",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893428",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893429"
+        },
+        {
+            "id": "02d5efbd-8dd4-4dce-9cd5-ff4d20354b6f",
+            "title": "Exclusive: Microsoft's hybrid AI vision",
+            "url": "https://www.therundown.ai/p/microsofts-hybrid-ai-vision",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893419",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893420"
+        },
+        {
+            "id": "a6476c8e-f2c2-4ed1-a8e1-c27307cd1a78",
+            "title": "Exclusive interview: Inside Meta's AI glasses master plan",
+            "url": "https://www.therundown.ai/p/inside-metas-ai-glasses-master-plan",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893409",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893410"
+        },
+        {
+            "id": "82d271c8-3e87-4a25-949c-8f37ee7c45f4",
+            "title": "Exclusive: The enterprise AI playbook",
+            "url": "https://www.therundown.ai/p/exclusive-the-enterprise-ai-playbook",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893400",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893401"
+        },
+        {
+            "id": "41794d78-8ef3-4422-9539-3d8d57c4294a",
+            "title": "Exclusive interview: Sam Altman on Dev Day and AI's future",
+            "url": "https://www.therundown.ai/p/exclusive-interview-sam-altman-on-dev-day-and-ais-future",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893391",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893392"
+        },
+        {
+            "id": "1191b8b9-ef2b-4526-af4e-6215224541cf",
+            "title": "Anthropic CEO confronts AI's dangers",
+            "url": "https://www.therundown.ai/p/anthropic-ceo-confronts-ais-dangers",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893382",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893383"
+        },
+        {
+            "id": "1e2bd95e-c13b-463c-998d-e334c0bd1da5",
+            "title": "Viral AI agent molts past trademark trouble",
+            "url": "https://www.therundown.ai/p/viral-ai-agent-molts-past-trademark-trouble",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893373",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893373"
+        },
+        {
+            "id": "51c2a3de-1cb0-4dda-9318-307bf72a8bd7",
+            "title": "Chrome gets agentic AI upgrade",
+            "url": "https://www.therundown.ai/p/chrome-gets-agentic-ai-upgrade",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893362",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893363"
+        },
+        {
+            "id": "01af755a-ea24-4a4b-a78a-3254b74412bc",
+            "title": "xAI's Grok Imagine climbs the leaderboards",
+            "url": "https://www.therundown.ai/p/xais-grok-imagine-climbs-the-leaderboards",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893352",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893353"
+        },
+        {
+            "id": "95b14611-4e7c-49c5-a73d-940cfcb087d6",
+            "title": "AI agents get their own social network",
+            "url": "https://www.therundown.ai/p/ai-agents-get-their-own-social-network",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893340",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893341"
+        },
+        {
+            "id": "bbce30dd-e364-4437-bd47-217ac37bb562",
+            "title": "xAI joins SpaceX in mega-merger",
+            "url": "https://www.therundown.ai/p/xai-joins-spacex-in-mega-merger",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893328",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893328"
+        },
+        {
+            "id": "5207d4ad-6c25-40a8-9c2e-5af5fa526a74",
+            "title": "Sam Altman\u2019s OpenAI succession plan",
+            "url": "https://www.therundown.ai/p/sam-altmans-openai-succession-plan",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893313",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893314"
+        },
+        {
+            "id": "968a633a-f8df-4ea5-a189-d8f28ce8f237",
+            "title": "Anthropic\u2019s ad-free campaign takes aim at OpenAI",
+            "url": "https://www.therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai",
+            "source": "TheRundown",
+            "published_at": "2026-02-05T21:56:46.893284",
+            "summary": "",
+            "tags": [
+                "AI",
+                "News"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.893290"
+        },
+        {
+            "id": "2c467047-c2d8-44fc-ac76-be411de12efc",
+            "title": "Do the pros and cons of AI change under an autocratic regime?  How",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwokl1/do_the_pros_and_cons_of_ai_change_under_an/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T21:10:03",
+            "summary": "It seems to me almost no one (at least in the US) is talking about the ethics and morals of AI in the current context.  They talk about it as if it's being run in a democracy, where there's some sort ...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209892"
+        },
+        {
+            "id": "6bc0a99f-d26b-4ce9-ab77-0ce3cca61f9b",
+            "title": "A new platform, Rent-a-Human, lets AI agents pay humans to do the real-world work they can't",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwoi35/a_new_platform_rentahuman_lets_ai_agents_pay/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T21:07:27",
+            "summary": "\"The website\u00a0Rentahuman.ai\u00a0lets AI systems hire humans for real-world tasks. People create profiles listing their skills and location, then AI agents find them through an API/MCP interface and assign ...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209904"
+        },
+        {
+            "id": "c2412d86-50b5-4425-8a62-615a0e57a6c5",
+            "title": "Characters in AI videos often have a massive grin....technical reason?",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwoeyw/characters_in_ai_videos_often_have_a_massive/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T21:04:00",
+            "summary": "I have noticed that in a lot of AI videos I have seen (adverts and independent creators) many of the characters seem to have these massive, broad, radiant grins plastered across their face.\n\n  \noften ...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209908"
+        },
+        {
+            "id": "34d94e28-b543-4093-8198-5918c9b12152",
+            "title": "Meta\u2019s Dr. Zero: agents that learn by generating and solving their own problems",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwnr4f/metas_dr_zero_agents_that_learn_by_generating_and/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T20:39:00",
+            "summary": "\nMeta recently published research called Dr. Zero, and I think it\u2019s an important step toward genuinely agentic AI.\n\nThe core idea is simple but powerful: instead of training agents on large amounts of...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209912"
+        },
+        {
+            "id": "51347890-ac1c-4ba1-a373-3fb15211dcff",
+            "title": "Best website/app for using AI to change/fix facial expressions from photos?",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwncx4/best_websiteapp_for_using_ai_to_changefix_facial/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T20:23:45",
+            "summary": "Recommendations for websites (ideally free/no credits) or programs that can change/modify/correct facial expressions for real life photos? For example, changing a scowling face into a smile.\n\nIf there...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209915"
+        },
+        {
+            "id": "ba702a3e-d7ed-4412-9739-ba7005bba1e7",
+            "title": "I built an AI news site with zero emojis, zero hype, and zero 'HUGE if true' energy",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwnbvh/i_built_an_ai_news_site_with_zero_emojis_zero/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T20:22:34",
+            "summary": "I built a no-BS AI news website (and newsletter) that uses AI to curate the best AI-related stories for me: [7min.ai](https://7min.ai).\n\nI'm subscribed to many AI newsletters. They are useful, but I f...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209919"
+        },
+        {
+            "id": "2a59a83d-f4d9-4d47-8914-b26177d1085b",
+            "title": "Do Latent-CoT Models Think Step-by-Step? A Mechanistic Study on Sequential Reasoning Tasks",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwn8o1/do_latentcot_models_think_stepbystep_a/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T20:19:04",
+            "summary": "[https://www.arxiv.org/abs/2602.00449](https://www.arxiv.org/abs/2602.00449) \n\nLatent Chain-of-Thought (Latent-CoT) aims to enable step-by-step computation without emitting long rationales, yet its me...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209921"
+        },
+        {
+            "id": "fc1dd22d-13fb-4c24-9cc1-823b8a39ed61",
+            "title": "AI-generated images are getting harder to tell apart from real ones",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwn6b8/aigenerated_images_are_getting_harder_to_tell/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T20:16:26",
+            "summary": "AI-generated images are starting to show up everywhere now, especially on social media and news sites, and it\u2019s getting harder to tell what\u2019s real and what isn\u2019t. A while ago it was obvious when somet...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209924"
+        },
+        {
+            "id": "fe6360e4-979d-44b5-ae49-c8d38d0fca25",
+            "title": "Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwmou6/anthropic_openai_rivalry_spills_into_new_super/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T19:57:08",
+            "summary": "The fiercest competition between the two AI developers, along with bigger companies like Google, is a race to win over corporate leaders looking to adopt AI tools to boost workplace productivity. The ...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209927"
+        },
+        {
+            "id": "2cef8ed2-5171-4b11-b9a5-9741ca63b1e7",
+            "title": "Research on observability",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwlm7v/research_on_observability/",
+            "source": "Reddit",
+            "published_at": "2026-02-05T19:12:52",
+            "summary": "AI builders - how do you take into account user feedback in your agent development?\nDo observability tools like Helicone and Langfuse help with subjective metrics like user sentiment, behaviour and en...",
+            "tags": [
+                "Reddit",
+                "AI"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:56:46.209929"
+        },
+        {
+            "id": "d835d86a-7dec-4261-829c-0a6de8c75cec",
+            "title": "Vibe coding is old now",
+            "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
+            "source": "BensBites",
+            "published_at": "2026-02-05T15:01:50.198Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054757"
+        },
+        {
+            "id": "a8d6acb0-6c07-4f0a-ad4c-701d9c172e98",
+            "title": "You don't need to be an engineer to build things",
+            "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
+            "source": "BensBites",
+            "published_at": "2026-02-05T14:34:56.905Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054783"
+        },
+        {
+            "id": "5f57e563-342e-41d7-815d-ac6fed5188d6",
+            "title": "What's next for coding agents?",
+            "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
+            "source": "BensBites",
+            "published_at": "2026-02-03T14:10:22.439Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054802"
+        },
+        {
+            "id": "22e4911d-f011-425c-89f0-fdd6f633b84e",
+            "title": "Writing research made easy",
+            "url": "https://www.bensbites.com/p/writing-research-made-easy",
+            "source": "BensBites",
+            "published_at": "2026-01-29T14:20:19.329Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054822"
+        },
+        {
+            "id": "e65bc51e-4655-4ccb-a9d7-56cf5ad4f04d",
+            "title": "Skills are taking over",
+            "url": "https://www.bensbites.com/p/skills-are-taking-over",
+            "source": "BensBites",
+            "published_at": "2026-01-27T14:31:05.163Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054840"
+        },
+        {
+            "id": "f163e950-c649-402c-b4c1-a204fdeb8360",
+            "title": "Using coding agents, if you're not technical",
+            "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
+            "source": "BensBites",
+            "published_at": "2026-01-22T14:52:55.155Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054857"
+        },
+        {
+            "id": "4ecf0b3a-11c0-4c61-9d25-53f7aad97850",
+            "title": "Ads in your chats",
+            "url": "https://www.bensbites.com/p/ads-in-your-chats",
+            "source": "BensBites",
+            "published_at": "2026-01-20T14:03:22.278Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054875"
+        },
+        {
+            "id": "5025e693-3532-4faf-9e98-d11d4dd97e81",
+            "title": "Agents that keep running",
+            "url": "https://www.bensbites.com/p/agents-that-keep-running",
+            "source": "BensBites",
+            "published_at": "2026-01-15T14:15:37.652Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054892"
+        },
+        {
+            "id": "cb3106af-d39b-4e64-a113-90e00831aa34",
+            "title": "Claude Code for everybody",
+            "url": "https://www.bensbites.com/p/claude-code-for-everybody",
+            "source": "BensBites",
+            "published_at": "2026-01-13T14:03:42.359Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054907"
+        },
+        {
+            "id": "8e963b03-4f94-4d9e-8e43-5e519d45f928",
+            "title": "Dr. ChatGPT will see you now",
+            "url": "https://www.bensbites.com/p/dr-chatgpt-will-see-you-now",
+            "source": "BensBites",
+            "published_at": "2026-01-08T14:03:09.965Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054922"
+        },
+        {
+            "id": "19d15365-ecea-4927-9b57-61e599ebf3eb",
+            "title": "How I code with agents, without being 'technical'",
+            "url": "https://www.bensbites.com/p/how-i-code-with-agents-without-being",
+            "source": "BensBites",
+            "published_at": "2026-01-06T14:02:59.741Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054939"
+        },
+        {
+            "id": "682d2942-bf6e-4fa6-8d81-6c6e3893dfa1",
+            "title": "A great time to be a builder",
+            "url": "https://www.bensbites.com/p/a-great-time-to-be-a-builder",
+            "source": "BensBites",
+            "published_at": "2025-12-23T14:03:06.111Z",
+            "summary": "",
+            "tags": [
+                "AI",
+                "Newsletter"
+            ],
+            "is_saved": false,
+            "fetched_at": "2026-02-05T21:57:23.054955"
+        }
+    ]
+}
