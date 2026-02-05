@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Search, Share2, Bookmark, ExternalLink, Menu, Bell } from 'lucide-react'
+import { Search, Share2, ExternalLink, Menu, Bell } from 'lucide-react'
 
 interface Article {
     id: string
